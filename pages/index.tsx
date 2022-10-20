@@ -6,15 +6,27 @@ const Home: NextPage = () => {
   return (
     <div className="flex min-h-screen flex-col items-center justify-center py-2">
       <Head>
-        <title>Create Next App</title>
+        <title>Home - Netflix</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      Lets Build Netflix
+      <Header/>
+      {/* Header */}
       <main>
+      {/*Banner*/ }
+      <section>
+        {/*Row*/}
+        {/*Row*/}
+        {/*Row*/}
+        {/*Row*/}
+        {/*Row*/}
+        {/*Row*/}
+        {/*Row*/}
 
-        
+      </section>
+
       </main>
+      {/* Modal */}
     </div>
   )
 }
